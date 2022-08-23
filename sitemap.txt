@@ -6,3 +6,6 @@ https://lqcbeking.github.io/about/index.html
 https://lqcbeking.github.io/tags/index.html
 https://lqcbeking.github.io/categories/index.html
 https://lqcbeking.github.io/
+https://lqcbeking.github.io/tags/hexo/
+https://lqcbeking.github.io/tags/others/
+https://lqcbeking.github.io/categories/hexo/

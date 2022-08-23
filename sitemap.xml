@@ -4,7 +4,7 @@
   <url>
     <loc>https://lqcbeking.github.io/post/4a17b156.html</loc>
     
-    <lastmod>2022-08-22</lastmod>
+    <lastmod>2022-08-23</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -73,6 +73,27 @@
   </url>
 
   
+  <url>
+    <loc>https://lqcbeking.github.io/tags/hexo/</loc>
+    <lastmod>2022-08-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://lqcbeking.github.io/tags/others/</loc>
+    <lastmod>2022-08-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
+  
+  <url>
+    <loc>https://lqcbeking.github.io/categories/hexo/</loc>
+    <lastmod>2022-08-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 </urlset>
