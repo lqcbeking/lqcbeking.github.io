@@ -5,4 +5,5 @@ https://lqcbeking.github.io/contact/index.html
 https://lqcbeking.github.io/about/index.html
 https://lqcbeking.github.io/tags/index.html
 https://lqcbeking.github.io/categories/index.html
+https://lqcbeking.github.io/post/0.html
 https://lqcbeking.github.io/
